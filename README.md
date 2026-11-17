@@ -1,1 +1,2 @@
-# pokemon-champions-limitless
+# Assessing popularity of various Pokemon, builds, and teammates in the evolving Pokemon Champions metagame
+This is a Python project that reads in results from unofficial grassroots tournaments run by the Pokemon community on a popular tournament site called limitlesstcg. For a given tournament, it can assess how successful a given Pokemon was, who its best teammates were, and what items, movesets, and abilities were best on it, using win rate as the primary performance metric.
